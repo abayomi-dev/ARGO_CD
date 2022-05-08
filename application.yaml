@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default 
   source: 
-    repoURL: 
+    repoURL: https://github.com/Osiephri/ArgoCd-implementation.git
     targetRevision: HEAD
     path: dev_files
   destination: 
